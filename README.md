@@ -55,4 +55,4 @@ Created by [Chintan Sanghavi](https://www.linkedin.com/in/chintansanghavi/) and 
 
 ## Looking for the AWS version?
 
-The [full AWS workshop](../merged-workshop/01-overview.md) covers Amazon Bedrock AgentCore deployment, custom MCP servers, Knowledge Bases, and more (~4 hours, 10 modules).
+The [full AWS workshop](https://advertising.amazon.com/API/docs/en-us/bulksheets/hands-on-workshops/amazon-ads-mcp-server/08-build-ads-agent#step-4-create-the-ads-campaign-agent) covers Amazon Bedrock AgentCore deployment, custom MCP servers, Knowledge Bases, and more (~4 hours, 10 modules).
