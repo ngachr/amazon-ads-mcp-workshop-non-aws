@@ -1,0 +1,1 @@
+# amazon-ads-mcp-workshop-non-aws
